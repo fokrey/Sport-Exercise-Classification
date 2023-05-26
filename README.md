@@ -1,2 +1,2 @@
 # Sport-Exercise-Classification
-Classification of sport exercise performed by human
+Classification of sport exercise performed by a human
