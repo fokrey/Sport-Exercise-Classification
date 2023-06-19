@@ -1,2 +1,3 @@
 # Sport-Exercise-Classification
 Classification of sport exercise performed by a human
+The main purpose of this work is to develop a model that can automatically evaluate the correctness of the exercises performed based on the recorded movement patterns. This goal is achieved through data preprocessing and the use of machine learning methods, such as the nearest neighbor method, logistic regression and the support vector machine method. In the course of the work, a proprietary data set containing sensor readings was collected. Based on the data, the necessary features were extracted and classified using the methods mentioned above. The classification result showed an accuracy of 90% and 93% for the two exercises performed in this work, on a test sample.
